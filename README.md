@@ -113,4 +113,4 @@
 ## Recursos Adicionales
 
 - **Archivos Generados**:
-  - Los archivos generados se encuentran en los folders correspondientes dentro del drive mencionado en `linkDataset.txt`.
+  - Los archivos generados se encuentran en los folders correspondientes en `linkDataset.txt`.

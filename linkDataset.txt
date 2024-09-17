@@ -1,0 +1,9 @@
+Link DataSet
+
+>> The Reddit COVID dataset <<
+https://www.kaggle.com/datasets/pavellexyr/the-reddit-covid-dataset
+
+All the mentions of COVID-19 on Reddit, up to 25th of October, 2021.
+The ongoing outbreak of COVID-19 is the largest pandemic many of us will face in our entire lives. 
+In interests of evaluating public opinion and leveraging social data for public health, we release 
+this dataset online under a CC-BY license.
